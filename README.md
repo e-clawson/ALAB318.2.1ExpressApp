@@ -3,6 +3,8 @@ ALAB 318.2.1: Building an Express Application
 Version 1.0, 07/07/23
 Click here to open in a separate window. (https://www.canva.com/design/DAFritNSJH0/wX)
 
+lab done with Maya, Aya, and Eric 
+
 # Introduction
 Now that you have foundational knowledge of Express tools and techniques, it is time to construct an application according to given requirements.
 You are encouraged to use material developed during the lesson as a springboard for this application, but you should make significant contributions of your own. This lab is intended to give you time to practice what you learned, while also researching and implementing new concepts.
